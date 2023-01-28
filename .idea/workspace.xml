@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cbb62f7-493d-4e57-bedb-5a08249ef627" name="Changes" comment="Updated Readme_main.txt file">
-      <change beforePath="$PROJECT_DIR$/Readme_main.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="3cbb62f7-493d-4e57-bedb-5a08249ef627" name="Changes" comment="Created README.md file">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +173,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674906561928</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated Readme_main.txt file">
+      <created>1674906888838</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674906888838</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Created README.md file">
+      <created>1674906957121</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674906957121</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Created README.md file">
+      <created>1674907101983</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674907101983</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +214,8 @@
     <MESSAGE value="Added new file" />
     <MESSAGE value="Added Readme_main.txt file" />
     <MESSAGE value="Updated Readme_main.txt file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme_main.txt file" />
+    <MESSAGE value="Created README.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created README.md file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
