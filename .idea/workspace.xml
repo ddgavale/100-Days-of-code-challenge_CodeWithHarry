@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cbb62f7-493d-4e57-bedb-5a08249ef627" name="Changes" comment="Added Readme_main.txt file" />
+    <list default="true" id="3cbb62f7-493d-4e57-bedb-5a08249ef627" name="Changes" comment="Updated Readme_main.txt file">
+      <change beforePath="$PROJECT_DIR$/Readme_main.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674906144935</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated Readme_main.txt file">
+      <created>1674906561928</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674906561928</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,7 +192,8 @@
     <MESSAGE value="Changes with new files" />
     <MESSAGE value="Added new file" />
     <MESSAGE value="Added Readme_main.txt file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Readme_main.txt file" />
+    <MESSAGE value="Updated Readme_main.txt file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme_main.txt file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
