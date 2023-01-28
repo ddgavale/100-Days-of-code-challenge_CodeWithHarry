@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cbb62f7-493d-4e57-bedb-5a08249ef627" name="Changes" comment="Rename file">
+    <list default="true" id="3cbb62f7-493d-4e57-bedb-5a08249ef627" name="Changes" comment="Updated README.md file">
+      <change afterPath="$PROJECT_DIR$/Python Operators/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -222,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674908465008</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updated README.md file">
+      <created>1674909089287</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674909089287</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,10 +251,10 @@
     <MESSAGE value="Added Readme_main.txt file" />
     <MESSAGE value="Updated Readme_main.txt file" />
     <MESSAGE value="Created README.md file" />
-    <MESSAGE value="Updated README.md file" />
     <MESSAGE value="Updated README.md file for Variable &amp; Data-types" />
     <MESSAGE value="Rename file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename file" />
+    <MESSAGE value="Updated README.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
