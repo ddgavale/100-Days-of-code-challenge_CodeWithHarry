@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cbb62f7-493d-4e57-bedb-5a08249ef627" name="Changes" comment="Updated README.md file">
-      <change afterPath="$PROJECT_DIR$/Python Operators/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3cbb62f7-493d-4e57-bedb-5a08249ef627" name="Changes" comment="Create files for operators">
+      <change beforePath="$PROJECT_DIR$/Python Operators/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python Operators/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674909089287</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Create files for operators">
+      <created>1674912624420</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674912624422</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Create files for operators">
+      <created>1674912678623</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674912678623</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,7 +267,8 @@
     <MESSAGE value="Updated README.md file for Variable &amp; Data-types" />
     <MESSAGE value="Rename file" />
     <MESSAGE value="Updated README.md file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md file" />
+    <MESSAGE value="Create files for operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create files for operators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
