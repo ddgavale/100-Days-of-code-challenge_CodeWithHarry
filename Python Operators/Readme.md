@@ -16,7 +16,7 @@ In this article, we will look into different types of Python operators.
 ### Precedence and Associativity of Operators: 
 Operator precedence and associativity determine the priorities of the operator. [1]
 
-## Exercise:
+## Exercise: Write a simple python Code for Calculator
 To create a calculator we require or used 'arithmetic operators'.
 
 ![img.png](img.png)
